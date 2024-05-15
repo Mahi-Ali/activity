@@ -65,6 +65,18 @@ if (number > 0) {
     console.log("The number is zero.");
 }
 
+//
+
+ let score = +prompt("Enter your score");
+ if(score >= 80 || score >= 60){
+ console.log("you are pass");
+}
+else{
+    console.log("you are failed");
+}
+
+
+
 
 
 
